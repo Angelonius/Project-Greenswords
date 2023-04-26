@@ -1,0 +1,37 @@
+# c_manila
+
+# County Title
+title = c_manila
+
+# Settlements
+max_settlements = 5
+
+b_manila = castle
+b_paranaque = city
+b_las_pinas = temple
+b_muntinlupa = castle
+b_caloocan = castle
+#b_san_pedro = city
+#b_valenzuela = temple
+
+# Misc
+culture = taglish
+religion = katoliko
+#History
+1750.1.1 = {
+	build_wonder = wonder_malacanang_palace
+	set_wonder_stage = 3
+	build_wonder_upgrade = upgrade_throne_fancy
+	build_wonder_upgrade = upgrade_royal_custodian
+}
+2000.1.1 = {
+	set_wonder_stage = 2
+}
+
+2030.8.8 = {
+	b_caloocan = ca_keep_1
+	b_caloocan = ca_stable_1
+	b_caloocan = ca_militia_barracks_1
+	b_caloocan = ca_wall_1
+	b_caloocan = ca_wall_2
+}
