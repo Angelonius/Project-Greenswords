@@ -1,0 +1,14 @@
+30625 = { name="de los Reyes" culture=tagalog 
+coat_of_arms = {
+		religion=katoliko
+		template=0
+		layer = {
+			texture = 0
+            texture_internal = 0
+            emblem = 19
+            color = 10
+			color = 10
+		}
+	}		
+		used_for_random = no
+}
