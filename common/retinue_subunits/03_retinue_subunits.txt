@@ -1,0 +1,23 @@
+RETTYPE_NAVAL_CAVALRY = 
+{
+	first_type = 4
+	first_amount = 500
+	
+	potential = {
+        religion = katoliko
+        is_nomadic = no
+        OR = {
+        culture = macanese
+        culture_group = austronesian
+culture_group = aeta
+culture_group = asian_anglophone
+        culture = chavacano		
+        }
+    }
+	
+	modifier = {
+		knights_offensive = 0.625
+		knights_defensive = 0.625
+		knights_morale = 0.625
+	}
+}
