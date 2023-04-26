@@ -1,0 +1,14 @@
+northern_manila_bloodline = {
+	picture = GFX_bloodlines_symbol_war_knight
+	allow_bastards = no
+	combat_rating = 5
+	command_modifier = {
+		cavalry = 1.25
+	}
+	martial = 10
+	taglish_opinion = 15
+	tagalog_opinion = 15
+	amerikano_opinion = 15
+	inheritance = patrilineal
+	flags = { historical_bloodline }
+}
