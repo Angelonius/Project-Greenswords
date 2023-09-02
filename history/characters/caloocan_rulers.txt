@@ -5,7 +5,7 @@
 	culture="tagalog"
 	religion="katoliko"
 	diplomacy=10
-	martial=20
+	martial=6
 	stewardship=10
 	intrigue=10
 	learning=10
@@ -15,10 +15,19 @@
 	trait="cavalry_leader"
 	trait="brave"
 	trait="shrewd"
-	trait="proud"
+	trait="robust"
+	trait="strong"
+	trait="adventurer"
+	trait="peasant_noble"
+	trait="eccentric"
 	disallow_random_traits=yes
 	1989.10.14={
 		birth=yes
+	}
+	2020.10.14 = {
+		effect = {
+			add_artifact = greensword
+		}
 	}
 	2030.8.8 = {
 		create_bloodline = {
@@ -45,6 +54,7 @@
 	trait="organizer"
 	trait="cavalry_leader"
 	trait="brave"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2070.4.1={
 		birth=yes
@@ -67,6 +77,7 @@
 	trait="midas_touched"
 	trait="cavalry_leader"
 	trait="zealous"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2102.6.9={
 		birth=yes
@@ -89,6 +100,7 @@
 	trait="elusive_shadow"
 	trait="cavalry_leader"
 	trait="content"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2121.3.7={
 		birth=yes
@@ -111,8 +123,9 @@
 	trait="elusive_shadow"
 	trait="cavalry_leader"
 	trait="content"
+	trait="adventurer"
 	disallow_random_traits=yes
-	2121.8.7={
+	2151.8.7={
 		birth=yes
 	}
 	2211.12.23={
@@ -133,6 +146,7 @@
 	trait="mastermind_theologian"
 	trait="cavalry_leader"
 	trait="just"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2199.2.14={
 		birth=yes
@@ -155,6 +169,7 @@
 	trait="midas_touched"
 	trait="cavalry_leader"
 	trait="gregarious"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2229.8.6={
 		birth=yes
@@ -177,6 +192,7 @@
 	trait="elusive_shadow"
 	trait="cavalry_leader"
 	trait="schemer"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2267.10.2={
 		birth=yes
@@ -199,6 +215,7 @@
 	trait="mastermind_theologian"
 	trait="cavalry_leader"
 	trait="celibate"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2300.1.13={
 		birth=yes
@@ -224,6 +241,7 @@
 	trait="duelist"
 	trait="robust"
 	trait="stubborn"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2340.8.8={
 		birth=yes
@@ -257,9 +275,15 @@
 	trait="gamer"
 	trait="robust"
 	trait="brave"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2371.5.3={
 		birth=yes
+	}
+	2392.2.14={
+		effect = {
+		add_rival = 78219
+		}
 	}
 	2429.12.30={
 		employer=26665317
@@ -290,6 +314,7 @@
 	trait="poet"
 	trait="robust"
 	trait="hunter"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2400.12.25={
 		birth=yes
@@ -299,7 +324,7 @@
 		give_job_title=job_marshal
 	}
 	2482.3.13={
-		employer=2666520
+		employer=26665320
 		give_job_title=job_marshal
 	}
 	2497.12.1={
@@ -323,12 +348,13 @@
 	trait="strategist"
 	trait="robust"
 	trait="patient"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2427.2.17={
 		birth=yes
 	}
 	2497.12.1={
-		employer=2666520
+		employer=26665320
 		give_job_title=job_marshal
 	}
 	2512.1.30={
@@ -353,12 +379,16 @@
 	trait="robust"
 	trait="diligent"
 	trait="architect"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2445.9.11={
 		birth=yes
 	}
+	2465.10.14={
+		add_spouse=78221
+	}
 	2512.1.30={
-		employer=2666520
+		employer=26665320
 		give_job_title=job_marshal
 	}
 	2534.3.13={
@@ -371,6 +401,7 @@
 	culture="tagalog"
 	religion="katoliko"
 	father=78113
+	mother=78221
 	diplomacy=26
 	martial=35
 	stewardship=28
@@ -381,10 +412,10 @@
 	trait="siege_leader"
 	trait="architect"
 	trait="robust"
-	trait="architect"
 	trait="diligent"
+	trait="adventurer"
 	disallow_random_traits=yes
-	2497.9.11={
+	2471.9.11={
 		birth=yes
 	}
 	2524.6.2={
@@ -399,7 +430,7 @@
 	}
 }
 78115={ 
-	name="Javier"
+	name="Regimo"
 	dynasty=30625
 	culture="tagalog"
 	religion="katoliko"
@@ -417,6 +448,7 @@
 	trait="robust"
 	trait="ambitious"
 	trait="just"
+	trait="adventurer"
 	disallow_random_traits=yes
 	2532.9.11={
 		birth=yes
@@ -452,7 +484,7 @@
 	trait="just"
 	female=yes
 	disallow_random_traits=yes
-	2508.3.2={
+	2481.3.2={
 		birth=yes
 	}
 	2524.6.2={
@@ -510,6 +542,8 @@
 	learning=5
 	trait="strong"
 	trait="genius"
+	trait="tall"
+	trait="fecund"
 	disallow_random_traits=yes
 	2555.1.1={
 		birth=yes
@@ -518,23 +552,199 @@
 		death=yes
 	}
 }
-26666036={ 
-	name="Geneva"
+78119={ 
+	name="Gaudiosa"
+	dynasty=30625
+	culture="tagalog"
+	religion="katoliko"
+	father=78114
+	mother=78116
+	diplomacy=5
+	martial=10
+	stewardship=8
+	intrigue=5
+	learning=2
+	trait="brilliant_strategist"
+	trait="cavalry_leader"
+	trait="trickster"
+	trait="brave"
+	trait="robust"
+	trait="ambitious"
+	trait="just"
+	trait="adventurer"
+	female=yes
+	disallow_random_traits=yes
+	2525.1.1={
+		birth=yes
+	}
+	2544.2.1={
+		add_spouse=26668150
+	}
+	2580.1.1={
+		death=yes
+	}
+}
+78120={ 
+	name="Chad"
+	dynasty=2014191
+	culture="taglish"
+	religion="katoliko"
+	father=26668150
+	mother=78119
+	trait="strong"
+	trait="fair"
+	disallow_random_traits=yes
+	2545.8.8={
+		birth=yes
+	}
+	2580.1.1={
+		death=yes
+	}
+}
+78121={ 
+	name="Buenaventurada"
+	dynasty=30625
+	culture="tagalog"
+	religion="katoliko"
+	father=78114
+	mother=78116
+	diplomacy=5
+	martial=10
+	stewardship=8
+	intrigue=5
+	learning=2
+	trait="brilliant_strategist"
+	trait="cavalry_leader"
+	trait="trickster"
+	trait="brave"
+	trait="robust"
+	trait="ambitious"
+	trait="just"
+	trait="adventurer"
+	female=yes
+	disallow_random_traits=yes
+	2526.1.23={
+		birth=yes
+	}
+	2542.4.4={
+		add_spouse=19650013
+	}
+	2580.1.1={
+		death=yes
+	}
+}
+78122={ 
+	name="Roberto"
+	dynasty=3843608
+	culture="tagalog"
+	religion="katoliko"
+	father=19650013
+	mother=78121
+	trait="strong"
+	trait="fair"
+	disallow_random_traits=yes
+	2544.12.16={
+		birth=yes
+	}
+	2580.1.1={
+		death=yes
+	}
+}
+78123={ 
+	name="Evelinda"
+	dynasty=30625
+	culture="tagalog"
+	religion="katoliko"
+	father=78114
+	mother=78116
+	diplomacy=5
+	martial=10
+	stewardship=8
+	intrigue=5
+	learning=2
+	trait="brilliant_strategist"
+	trait="cavalry_leader"
+	trait="trickster"
+	trait="brave"
+	trait="robust"
+	trait="ambitious"
+	trait="just"
+	trait="adventurer"
+	female=yes
+	disallow_random_traits=yes
+	2530.1.23={
+		birth=yes
+	}
+	2548.4.1={
+		add_spouse=26666035
+	}
+	2580.1.1={
+		death=yes
+	}
+}
+78124={ 
+	name="Renato"
 	dynasty=3855177
 	culture="amerikano"
 	religion="katoliko"
 	father=26666035
-	diplomacy=3
-	martial=3
-	stewardship=3
-	intrigue=3
-	learning=3
+	mother=78123
+	trait="strong"
+	trait="fair"
 	disallow_random_traits=yes
-	female=yes
-	2555.1.1={
+	2549.8.31={
 		birth=yes
 	}
-	2666.1.1={
+	2580.1.1={
+		death=yes
+	}
+}
+78125={ 
+	name="Godofreda"
+	dynasty=30625
+	culture="tagalog"
+	religion="katoliko"
+	father=78114
+	mother=78116
+	diplomacy=5
+	martial=10
+	stewardship=8
+	intrigue=5
+	learning=2
+	trait="brilliant_strategist"
+	trait="cavalry_leader"
+	trait="trickster"
+	trait="brave"
+	trait="robust"
+	trait="ambitious"
+	trait="just"
+	trait="adventurer"
+	female=yes
+	disallow_random_traits=yes
+	2535.12.20={
+		birth=yes
+	}
+	2551.4.1={
+		add_spouse=39100007
+	}
+	2580.1.1={
+		death=yes
+	}
+}
+78126={ 
+	name="Godofredo"
+	dynasty=6014761
+	culture="macanese"
+	religion="katoliko"
+	father=39100007
+	mother=78125
+	trait="strong"
+	trait="fair"
+	disallow_random_traits=yes
+	2551.7.1={
+		birth=yes
+	}
+	2580.1.1={
 		death=yes
 	}
 }
