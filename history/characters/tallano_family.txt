@@ -1,0 +1,710 @@
+#The Tallano Clan
+78200={ 
+	name="Julian Morden"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	diplomacy=10
+	martial=9
+	stewardship=10
+	intrigue=6
+	learning=10
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="schemer"
+	disallow_random_traits=yes
+	1984.12.1={
+		birth=yes
+	}
+	2000.1.1={
+		effect = {add_artifact = gold_bar}
+	}
+	2000.1.1={
+		add_claim=e_phillipines
+	}
+	2058.7.2={
+		death=yes
+	}
+}
+78201={ 
+	name="Soliman"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78200
+	diplomacy=7
+	martial=12
+	stewardship=14
+	intrigue=11
+	learning=7
+	trait="brilliant_strategist"
+	trait="organizer"
+	trait="trickster"
+	disallow_random_traits=yes
+	2010.1.24={
+		birth=yes
+	}
+	2085.3.7={
+		death=yes
+	}
+}
+78202={ 
+	name="Sikatuna"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78201
+	diplomacy=3
+	martial=9
+	stewardship=12
+	intrigue=9
+	learning=7
+	trait="midas_touched"
+	trait="impaler"
+	trait="seducer"
+	disallow_random_traits=yes
+	2031.2.14={
+		birth=yes
+	}
+	2093.9.1={
+		death=yes
+	}
+}
+78203={ 
+	name="Acuna"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78202
+	diplomacy=45
+	martial=8
+	stewardship=2
+	intrigue=9
+	learning=7
+	trait="grey_eminence"
+	trait="impaler"
+	trait="arbitrary"
+	disallow_random_traits=yes
+	2066.7.17={
+		birth=yes
+	}
+	2098.5.1={
+		death=yes
+	}
+}
+78204={ 
+	name="Alfred"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78203
+	diplomacy=13
+	martial=18
+	stewardship=22
+	intrigue=29
+	learning=37
+	trait="grey_eminence"
+	trait="impaler"
+	trait="paranoid"
+	disallow_random_traits=yes
+	2081.9.17={
+		birth=yes
+	}
+	2128.4.9={
+		death=yes
+	}
+}
+78205={ 
+	name="Esteban"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78204
+	diplomacy=1
+	martial=18
+	stewardship=12
+	intrigue=9
+	learning=3
+	trait="tough_soldier"
+	trait="impaler"
+	trait="gregarious"
+	disallow_random_traits=yes
+	2107.8.31={
+		birth=yes
+	}
+	2139.2.10={
+		death=yes
+	}
+}
+78206={ 
+	name="Janus"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78205
+	diplomacy=11
+	martial=3
+	stewardship=26
+	intrigue=29
+	learning=18
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="poet"
+	disallow_random_traits=yes
+	2126.6.13={
+		birth=yes
+	}
+	2149.3.21={
+		death=yes
+	}
+}
+78207={ 
+	name="Alfonso"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78206
+	diplomacy=2
+	martial=8
+	stewardship=1
+	intrigue=19
+	learning=7
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="lustful"
+	disallow_random_traits=yes
+	2140.10.31={
+		birth=yes
+	}
+	2177.9.21={
+		death=yes
+	}
+}
+78208={ 
+	name="James"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78207
+	diplomacy=7
+	martial=1
+	stewardship=1
+	intrigue=23
+	learning=5
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="greedy"
+	disallow_random_traits=yes
+	2161.7.21={
+		birth=yes
+	}
+	2180.3.11={
+		death=yes
+	}
+}
+78209={ 
+	name="James"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78208
+	diplomacy=6
+	martial=15
+	stewardship=2
+	intrigue=3
+	learning=6
+	trait="brilliant_strategist"
+	trait="impaler"
+	trait="greedy"
+	trait="light_foot_leader"
+	trait="trickster"
+	disallow_random_traits=yes
+	2179.3.18={
+		birth=yes
+	}
+	2207.3.1={
+		death=yes
+	}
+}
+78210={ 
+	name="James"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78209
+	diplomacy=1
+	martial=1
+	stewardship=22
+	intrigue=5
+	learning=8
+	trait="midas_touched"
+	trait="impaler"
+	trait="greedy"
+	trait="scarred_high"
+	trait="trickster"
+	disallow_random_traits=yes
+	2205.8.25={
+		birth=yes
+	}
+	2232.2.22={
+		death=yes
+	}
+}
+78211={ 
+	name="James"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78210
+	diplomacy=1
+	martial=1
+	stewardship=22
+	intrigue=5
+	learning=8
+	trait="midas_touched"
+	trait="impaler"
+	trait="greedy"
+	trait="scarred_high"
+	trait="trickster"
+	disallow_random_traits=yes
+	2229.8.8={
+		birth=yes
+	}
+	2252.3.17={
+		death=yes
+	}
+}
+78212={ 
+	name="Tiburcio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78211
+	diplomacy=7
+	martial=11
+	stewardship=22
+	intrigue=29
+	learning=18
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="greedy"
+	trait="groomed"
+	trait="trickster"
+	disallow_random_traits=yes
+	2250.1.29={
+		birth=yes
+	}
+	2270.7.7={
+		death=yes
+	}
+}
+78213={ 
+	name="Tiburcio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78212
+	diplomacy=6
+	martial=14
+	stewardship=20
+	intrigue=31
+	learning=15
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="seducer"
+	trait="groomed"
+	trait="lustful"
+	disallow_random_traits=yes
+	2269.6.4={
+		birth=yes
+	}
+	2290.12.7={
+		death=yes
+	}
+}
+78214={ 
+	name="Tiburcio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78213
+	diplomacy=16
+	martial=14
+	stewardship=10
+	intrigue=11
+	learning=15
+	trait="grey_eminence"
+	trait="impaler"
+	trait="seducer"
+	trait="groomed"
+	trait="lustful"
+	disallow_random_traits=yes
+	2289.12.8={
+		birth=yes
+	}
+	2323.2.3={
+		death=yes
+	}
+}
+78215={ 
+	name="Tiburcio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78214
+	diplomacy=16
+	martial=25
+	stewardship=7
+	intrigue=12
+	learning=1
+	trait="brilliant_strategist"
+	trait="impaler"
+	trait="trickster"
+	trait="groomed"
+	trait="lustful"
+	trait="light_foot_leader"
+	disallow_random_traits=yes
+	2316.10.8={
+		birth=yes
+	}
+	2348.1.2={
+		death=yes
+	}
+}
+78216={ 
+	name="Bonito"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78215
+	diplomacy=26
+	martial=4
+	stewardship=1
+	intrigue=2
+	learning=7
+	trait="grey_eminence"
+	trait="impaler"
+	disallow_random_traits=yes
+	2341.9.1={
+		birth=yes
+	}
+	2360.12.16={
+		death=yes
+	}
+}
+78217={ 
+	name="Bonito"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78216
+	diplomacy=16
+	martial=14
+	stewardship=32
+	intrigue=19
+	learning=17
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	disallow_random_traits=yes
+	2360.7.12={
+		birth=yes
+	}
+	2399.2.1={
+		death=yes
+	}
+}
+78218={ 
+	name="Tiburcio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78217
+	diplomacy=7
+	martial=25
+	stewardship=19
+	intrigue=31
+	learning=20
+	trait="elusive_shadow"
+	trait="impaler"
+	trait="fair"
+	trait="groomed"
+	trait="lustful"
+	trait="light_foot_leader"
+	disallow_random_traits=yes
+	2382.6.4={
+		birth=yes
+	}
+	2412.7.17={
+		death=yes
+	}
+}
+78219={ 
+	name="Protacio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78217
+	diplomacy=2
+	martial=7
+	stewardship=2
+	intrigue=1
+	learning=3
+	trait="tough_soldier"
+	trait="impaler"
+	trait="aggressive_leader"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	disallow_random_traits=yes
+	2383.1.12={
+		birth=yes
+	}
+	2392.2.14={
+		effect = {
+		add_rival = 78110
+		}
+	}
+	2403.3.17={
+		death = {
+			death_reason = death_duel
+			killer = 78110
+		}
+	}
+}
+78220={ 
+	name="Esteban"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78218
+	diplomacy=8
+	martial=23
+	stewardship=14
+	intrigue=19
+	learning=20
+	trait="brilliant_strategist"
+	trait="impaler"
+	trait="arbitrary"
+	trait="organizer"
+	trait="light_foot_leader"
+	disallow_random_traits=yes
+	2400.12.2={
+		birth=yes
+	}
+	2451.9.19={
+		death=yes
+	}
+}
+78221={ 
+	name="Laura"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78220
+	diplomacy=11
+	martial=16
+	stewardship=14
+	intrigue=11
+	learning=11
+	trait="brilliant_strategist"
+	trait="impaler"
+	trait="fair"
+	trait="groomed"
+	trait="chaste"
+	trait="rough_terrain_leader"
+	trait="light_foot_leader"
+	female=yes
+	disallow_random_traits=yes
+	2449.1.1={
+		birth=yes
+	}
+	2496.10.14={
+		add_spouse=78113
+	}
+	2536.10.31={
+		death=yes
+	}
+}
+78222={ 
+	name="Protacio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78219
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	disallow_random_traits=yes
+	2400.1.2={
+		birth=yes
+	}
+	2460.3.10={
+		death=yes
+	}
+}
+78223={ 
+	name="Protacio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78222
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	disallow_random_traits=yes
+	2420.2.1={
+		birth=yes
+	}
+	2471.10.10={
+		death=yes
+	}
+}
+78224={ 
+	name="Protacio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78223
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	disallow_random_traits=yes
+	2439.2.14={
+		birth=yes
+	}
+	2500.10.10={
+		death=yes
+	}
+}
+78225={ 
+	name="Protacio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78224
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	disallow_random_traits=yes
+	2460.7.29={
+		birth=yes
+	}
+	2510.1.11={
+		death=yes
+	}
+}
+78226={ 
+	name="Protacio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78225
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	disallow_random_traits=yes
+	2479.7.30={
+		birth=yes
+	}
+	2521.7.11={
+		death=yes
+	}
+}
+78227={ 
+	name="Protacio"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78226
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	disallow_random_traits=yes
+	2500.1.1={
+		birth=yes
+	}
+	2529.6.12={
+		add_matrilineal_spouse=26666049
+	}
+	2591.8.27={
+		death=yes
+	}
+}
+78228={ 
+	name="Leo"
+	dynasty=2013571
+	culture="kapampangan"
+	religion="katoliko"
+	father=78227
+	mother=26666049
+	trait=brilliant_strategist
+	trait=tall
+	trait=strong
+	trait=robust
+	trait=cavalry_leader
+	trait=organizer
+	disallow_random_traits=yes
+	2531.1.1={
+		birth=yes
+	}
+	2621.7.11={
+		death=yes
+	}
+}
+78229={ 
+	name="Isabella"
+	dynasty=43656
+	culture="taglish"
+	religion="katoliko"
+	father=78226
+	trait="midas_touched"
+	trait="impaler"
+	trait="wroth"
+	trait="lustful"
+	trait="envious"
+	female = yes
+	disallow_random_traits=yes
+	2514.1.1={
+		birth=yes
+	}
+	2532.8.10={
+		add_spouse=26666048
+	}
+	2591.8.27={
+		death=yes
+	}
+}
+78230={ 
+	name="Ferdinand"
+	dynasty=2013518
+	culture="batangenyo"
+	religion="katoliko"
+	father=26666048
+	mother=78229
+	trait=brilliant_strategist
+	trait=tall
+	trait=strong
+	trait=robust
+	trait=cavalry_leader
+	trait=organizer
+	disallow_random_traits=yes
+	2534.1.1={
+		birth=yes
+	}
+	2591.8.27={
+		death=yes
+	}
+}
