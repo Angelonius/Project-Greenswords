@@ -1,4 +1,4 @@
-2030.8.8={
+2030.8.8={# The founding of the barony of Caloocan.
 holder=78100
 law = succ_primogeniture
 }
