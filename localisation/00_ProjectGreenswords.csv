@@ -1,10 +1,142 @@
+RETTYPE_ROMAN_EMPEROR;Imperial Knight;;;;;;;;;x
+reichsschwert;Reichsschwert;;;;;;;;;x
+reichsschwert_desc;The coronation sword of the Holy Roman Emperors.;;;;;;;;;x
+greensword;Greensword;;;;;;;;;x
+greensword_desc;This sword became the original sword of what became the Greenswords. Prince Paul Angelo de los Reyes had forged this sword and even plated it in copper. As time went on, the copper had turned green.;;;;;;;;;x
 RETTYPE_NAVAL_CAVALRY;Naval Cavalry;;;;;;;;;x
+RETTYPE_BANNERIDERS;Bannerknight;;;;;;;;;x
+RETTYPE_HWARANG;Hwarang;;;;;;;;;x
+RETTYPE_CUL_YANBIAN;Northern Chariot;;;;;;;;;x
 northern_manila_bloodline;Northern Castellan Blood;;;;;;;;;;;;;x
 northern_manila_bloodline_desc;This character descends from Paul Angelo de los Reyes, the first Baron of Caloocan.;;;;;;;;;;;;;x
-d_greenswords;Greenswords;;;;;;;;;x
-d_greenswords_adj;Greensword;;;;;;;;;x
+ca_culture_hwarang_1;Hwarang Barracks;;;;;;;;;x
+ca_culture_hwarang_2;Hwarang Barracks;;;;;;;;;x
+ca_culture_hwarang_3;Hwarang Barracks;;;;;;;;;x
+ca_culture_hwarang_4;Hwarang Barracks;;;;;;;;;x
+ca_culture_hwarang_1_desc;This building is used to train our elite Hwarang troops.;;;;;;;;;x
+ca_culture_hwarang_2_desc;This building is used to train our elite Hwarang troops.;;;;;;;;;x
+ca_culture_hwarang_3_desc;This building is used to train our elite Hwarang troops.;;;;;;;;;x
+ca_culture_hwarang_4_desc;This building is used to train our elite Hwarang troops.;;;;;;;;;x
+ca_culture_yanbian_1;Northern Chariot Foundry;;;;;;;;;x
+ca_culture_yanbian_2;Northern Chariot Foundry;;;;;;;;;x
+ca_culture_yanbian_3;Northern Chariot Foundry;;;;;;;;;x
+ca_culture_yanbian_4;Northern Chariot Foundry;;;;;;;;;x
+ca_culture_yanbian_1_desc;The usage of chariots is a relatively new development in our history. We make and store chariots here.;;;;;;;;;x
+ca_culture_yanbian_2_desc;The usage of chariots is a relatively new development in our history. We make and store chariots here.;;;;;;;;;x
+ca_culture_yanbian_3_desc;The usage of chariots is a relatively new development in our history. We make and store chariots here.;;;;;;;;;x
+ca_culture_yanbian_4_desc;The usage of chariots is a relatively new development in our history. We make and store chariots here.;;;;;;;;;x
+ca_culture_banner_1;Bannerknight Stables;;;;;;;;;x
+ca_culture_banner_2;Bannerknight Stables;;;;;;;;;x
+ca_culture_banner_3;Bannerknight Stables;;;;;;;;;x
+ca_culture_banner_4;Bannerknight Stables;;;;;;;;;x
+ca_culture_banner_1_desc;Our elite Bannerknights are trained here.;;;;;;;;;x
 ca_culture_naval_1;Naval Stables;;;;;;;;;x
 ca_culture_naval_2;Naval Stables;;;;;;;;;x
 ca_culture_naval_3;Naval Stables;;;;;;;;;x
 ca_culture_naval_4;Naval Stables;;;;;;;;;x
 ca_culture_naval_1_desc;We train our Naval Cavalry here.;;;;;;;;;x
+ca_culture_imperial_1;Imperial Knight Stables;;;;;;;;;x
+ca_culture_imperial_2;Imperial Knight Stables;;;;;;;;;x
+ca_culture_imperial_3;Imperial Knight Stables;;;;;;;;;x
+ca_culture_imperial_4;Imperial Knight Stables;;;;;;;;;x
+ca_culture_imperial_1_desc;Our elite Imperial Knights are trained here.;;;;;;;;;x
+
+#Special titles
+d_greenswords;Greenswords;;;;;;;;;x
+d_greenswords_adj;Greensword;;;;;;;;;x
+d_tallano;Tallano;;;;;;;;;x
+d_tallano_adj;Tallano;;;;;;;;;x
+
+#Local titles
+baron_tagalog;Gat;;;;;;;;;;;;;x
+baron_tagalog_female;Baronesa;;;;;;;;;;;;;x
+city_baron_tagalog;Punong Lungsod;;;;;;;;;;;;;x
+city_baron_female_tagalog;Punong Lungsod;;;;;;;;;;;;;x
+count_tagalog;Senapati;;;;;;;;;;;;;x
+count_female_tagalog;Kondesa;;;;;;;;;;;x
+duke_tagalog;Mahasenapati;;;;;;;;;;;;;x 
+duke_female_tagalog;Hara;;;;;;;;;;;;;x
+king_tagalog;Hari;;;;;;;;;;;;;x 
+king_female_tagalog;Dayang;;;;;;;;;;;;;x
+emperor_tagalog;Lakan;;;;;;;;;;;;;x
+emperor_female_tagalog;Lakambini;;;;;;;;;;;;;x
+baron_chavacano;Barón;;;;;;;;;;;;;x
+baron_chavacano_female;Baronesa;;;;;;;;;;;;;x
+count_chavacano;Conde;;;;;;;;;;;;;x 
+count_female_chavacano;Condesa;;;;;;;;;;;;;x
+duke_chavacano;Duque;;;;;;;;;;;;;x
+duke_female_chavacano;Duquesa;;;;;;;;;;;;;x
+king_chavacano;Rey;;;;;;;;;;;;;x #to make it stand out
+king_female_chavacano;Reyna;;;;;;;;;;;;;x
+emperor_chavacano;Emperador;;;;;;;;;;;;;x
+emperor_female_chavacano;Emperatríz;;;;;;;;;;;;;x
+emperor_ilocano;Apo;;;;;;;;;;;;;x
+duke_cuyanyo;Datu;;;;;;;;;;;;;x
+duke_female_cuyanyo;Hara;;;;;;;;;;;;;x
+king_cuyanyo;Rey;;;;;;;;;;;;;x #to make it stand out
+king_female_cuyanyo;Reyna;;;;;;;;;;;;;x
+emperor_cuyanyo;Emperador;;;;;;;;;;;;;x
+emperor_female_cuyanyo;Emperatríz;;;;;;;;;;;;;x
+duke_yakan;Datu;;;;;;;;;;;;;x
+duke_female_yakan;Hara;;;;;;;;;;;;;x
+duke_cebuano;Rajah;;;;;;;;;;;;;x
+duke_female_cebuano;Rani;;;;;;;;;;;;;x
+count_tausug;Sheikh;;;;;;;;;;;;;x
+count_female_tausug;Sheikha;;;;;;;;;;;;;x
+duke_tausug;Datu;;;;;;;;;;;;;x
+duke_female_tausug;Hara;;;;;;;;;;;;;x
+king_tausug;Sultan;;;;;;;;;;;;;x
+king_female_tausug;Sultana;;;;;;;;;;;;;x
+title_prince_tagalog;Prinsipe;;;;;;;;;;;;;x
+title_prince_female_tagalog;Binibini;;;;;;;;;;;;;x
+title_commander_tagalog;Maharlika;;;;;;;;;;;;;x
+title_commander_female_tagalog;Maharlika;;;;;;;;;;;;;x
+title_commander_cebuano;Timawa;;;;;;;;;;;;;x
+title_commander_female_cebuano;Timawa;;;;;;;;;;;;;x
+duke_ibatan;Mangpu;;;;;;;;;;;;;x
+principality_title_tagalog;Prinsipe;;;;;;;;;;;;;x
+principality_title_female_tagalog;Binibini;;;;;;;;;;;;;x
+principality_prefix_tagalog;Pamunuan ng;;;;;;;;;;;;;x
+principality_foa_tagalog;Kamahalan;;;;;;;;;;;;;x
+oligarchic_republic_baron_amerikano;Mayor;;;;;;;;;;;;;x
+oligarchic_republic_baron_female_amerikano;Mayoress;;;;;;;;;;;;;x
+oligarchic_republic_count_amerikano;Mayor;;;;;;;;;;;;;x
+oligarchic_republic_count_female_amerikano;Mayoress;;;;;;;;;;;;;x
+oligarchic_republic_duke_amerikano;Governor;;;;;;;;;;;;;x
+oligarchic_republic_duke_female_amerikano;Governor;;;;;;;;;;;;;x
+oligarchic_republic_king_amerikano;Prime Minister;;;;;;;;;;;;;x
+oligarchic_republic_king_female_amerikano;Prime Minister;;;;;;;;;;;;;x
+oligarchic_republic_emperor_amerikano;President;;;;;;;;;;x
+oligarchic_republic_emperor_female_amerikano;President;;;;;;;;;;x
+oligarchic_republic_barony_of_amerikano;City of;;;;;;;;;;;;;x
+oligarchic_republic_county_of_amerikano;City State of;;;;;;;;;;;;;x
+oligarchic_republic_duchy_of_amerikano;Province of;;;;;;;;;;;;;x
+oligarchic_republic_kingdom_of_amerikano;Republic of;;;;;;;;;;;;;x
+oligarchic_republic_baron_tagalog;Punong Lungsod;;;;;;;;;;;;;x
+oligarchic_republic_baron_female_tagalog;Punong Lungsod;;;;;;;;;;;;;x
+oligarchic_republic_count_tagalog;Punong Lungsod;;;;;;;;;;;;;x
+oligarchic_republic_count_female_tagalog;Punong Lungsod;;;;;;;;;;;;;x
+oligarchic_republic_duke_tagalog;Gobernador;;;;;;;;;;;;;x
+oligarchic_republic_duke_female_tagalog;Gobernador;;;;;;;;;;;;;x
+oligarchic_republic_king_tagalog;Punong Ministro;;;;;;;;;;;;;x
+oligarchic_republic_king_female_tagalog;Punong Ministro;;;;;;;;;;;;;x
+oligarchic_republic_emperor_tagalog;Pangulo;;;;;;;;;;x
+oligarchic_republic_emperor_female_tagalog;Pangulo;;;;;;;;;;x
+oligarchic_republic_barony_of_tagalog;Lungsod ng;;;;;;;;;;;;;x
+oligarchic_republic_county_of_tagalog;Lungsod ng;;;;;;;;;;;;;x
+oligarchic_republic_duchy_of_tagalog;Lalawigan ng;;;;;;;;;;;;;x
+oligarchic_republic_kingdom_of_tagalog;Republika ng;;;;;;;;;;;;;x
+oligarchic_republic_baron_taglish;Mayor;;;;;;;;;;;;;x
+oligarchic_republic_baron_female_taglish;Mayoress;;;;;;;;;;;;;x
+oligarchic_republic_count_taglish;Mayor;;;;;;;;;;;;;x
+oligarchic_republic_count_female_taglish;Mayoress;;;;;;;;;;;;;x
+oligarchic_republic_duke_taglish;Governor;;;;;;;;;;;;;x
+oligarchic_republic_duke_female_taglish;Governor;;;;;;;;;;;;;x
+oligarchic_republic_king_taglish;Prime Minister;;;;;;;;;;;;;x
+oligarchic_republic_king_female_taglish;Prime Minister;;;;;;;;;;;;;x
+oligarchic_republic_emperor_taglish;President;;;;;;;;;;x
+oligarchic_republic_emperor_female_taglish;President;;;;;;;;;;x
+oligarchic_republic_barony_of_taglish;City of;;;;;;;;;;;;;x
+oligarchic_republic_county_of_taglish;City State of;;;;;;;;;;;;;x
+oligarchic_republic_duchy_of_taglish;Province of;;;;;;;;;;;;;x
+oligarchic_republic_kingdom_of_taglish;Republic of;;;;;;;;;;;;;x
