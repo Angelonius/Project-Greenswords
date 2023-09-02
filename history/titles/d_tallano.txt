@@ -1,0 +1,99 @@
+2040.1.1={# Julian Morden Tallano Tagaean had taken over the city. From there, he had annexed his hometown of Pasay into Parañaque.
+holder=78200
+government = oligarchic_republic
+law = law_voting_power_0
+		law = banish_voting_power_0
+		law = revoke_title_voting_power_0
+		law = grant_title_voting_power_0
+		law = imprison_voting_power_0
+		law = execution_voting_power_0
+		law = war_voting_power_0
+}
+
+2058.7.2={# Soliman had conquered the castle of Muntinlupa and made it into a place to extort farmers, merchants and workers going to and from southern Luzon.
+holder=78201
+}
+
+2085.3.7={
+holder=78202
+}
+
+2093.9.1={
+holder=78203
+}
+
+2098.5.1={
+holder=78204
+}
+
+2128.4.9={
+holder=78205
+}
+
+2139.2.10={
+holder=78206
+}
+
+2149.3.21={
+holder=78207
+}
+
+2177.9.21={
+holder=78208
+}
+
+2180.3.11={
+holder=78209
+}
+
+2207.3.1={
+holder=78210
+}
+
+2232.2.22={
+holder=78211
+}
+
+2252.3.17={
+holder=78212
+}
+
+2270.7.7={
+holder=78213
+}
+
+2290.12.7={
+holder=78214
+}
+
+2323.2.3={
+holder=78215
+}
+
+2348.1.2={
+holder=78216
+}
+
+2360.12.16={
+holder=78217
+}
+
+2395.8.8={
+liege=k_luzon
+}
+
+2399.2.1={
+holder=78218
+}
+
+2412.7.17={
+holder=78220
+}
+
+2451.9.19={
+holder=78221
+}
+
+2536.10.31={# Death of the last Tallano Tagaean.
+holder=78114
+}
