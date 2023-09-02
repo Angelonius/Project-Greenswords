@@ -1,0 +1,23 @@
+#Tagalog artifacts
+greensword = {
+    indestructible = yes
+	martial = 5
+    combat_rating = 25
+    command_modifier = {
+        morale_offence = 0.5
+		knights = 1.25
+    }
+    quality = 5
+    active = {
+		is_adult = yes
+		religion = katoliko
+		has_education_martial_trigger = yes
+	}
+    flags = { sword combat_weapon }
+    stacking = no
+    picture = "GFX_sword_T3_glow_green"
+    slot = weapon
+	allowed_gift = {
+		always = no
+	}
+}
