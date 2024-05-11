@@ -5,10 +5,11 @@
 			OR = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
                 culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-                    culture = chavacano	
+                    culture_group = hispano_austronesian	
 					}
 				has_building = ca_culture_naval_1
 			}
@@ -17,10 +18,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
         culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano	
+        culture_group = hispano_austronesian	
                 }		
 			}
 		}
@@ -29,10 +31,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
        culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano	
+        culture_group = hispano_austronesian	
                 }		
 			}
 		}
@@ -53,10 +56,11 @@ culture_group = asian_anglophone
 			OR = {
 			    OR = {
         culture = macanese
+		culture_group = south_philippinic
         culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano
+        culture_group = hispano_austronesian
 		}
 				has_building = ca_culture_naval_1
 				has_building = ca_culture_naval_2
@@ -66,10 +70,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
 				culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano
+        culture_group = hispano_austronesian
                 }		
 			}
 		}
@@ -78,10 +83,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
         culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano	 
+        culture_group = hispano_austronesian	 
                 }		
 			}
 		}
@@ -102,10 +108,11 @@ culture_group = asian_anglophone
 			OR = {
 			    OR = {
         culture = macanese
+		culture_group = south_philippinic
        culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano
+        culture_group = hispano_austronesian
 		        }
 				has_building = ca_culture_naval_1
 				has_building = ca_culture_naval_2
@@ -116,10 +123,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
         culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano		
+        culture_group = hispano_austronesian		
 		        }
 			}
 		}
@@ -128,10 +136,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
        culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano		
+        culture_group = hispano_austronesian		
 		        }
 			}
 		}
@@ -152,10 +161,11 @@ culture_group = asian_anglophone
 			OR = {
 			    OR = {
         culture = macanese
+		culture_group = south_philippinic
        culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano
+        culture_group = hispano_austronesian
 		        }
 				has_building = ca_culture_naval_1
 				has_building = ca_culture_naval_2
@@ -167,10 +177,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
         culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano	
+        culture_group = hispano_austronesian	
                 }		
 			}
 		}
@@ -179,10 +190,11 @@ culture_group = asian_anglophone
 			ROOT = {
 				OR = {
 				culture = macanese
+				culture_group = south_philippinic
        culture_group = austronesian
-culture_group = aeta
+culture_group = north_philippinic
 culture_group = asian_anglophone
-        culture = chavacano	
+        culture_group = hispano_austronesian	
                 }		
 			}
 		}
