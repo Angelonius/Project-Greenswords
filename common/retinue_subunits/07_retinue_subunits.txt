@@ -8,10 +8,11 @@ RETTYPE_NAVAL_CAVALRY =
         is_nomadic = no
         OR = {
         culture = macanese
-        culture_group = austronesian
-culture_group = aeta
-culture_group = asian_anglophone
-        culture = chavacano		
+        culture_group = asian_anglophone
+culture_group = austronesian
+culture_group = hispano_austronesian
+        culture_group = north_philippinic
+culture_group = south_philippinic
         }
     }
 	
