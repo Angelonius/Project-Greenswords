@@ -636,7 +636,7 @@
 78122={ 
 	name="Roberto"
 	dynasty=3843608
-	culture="tagalog"
+	culture="serani"
 	religion="katoliko"
 	father=19650013
 	mother=78121
