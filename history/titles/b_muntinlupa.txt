@@ -89,3 +89,6 @@ holder=26665320
 2534.3.13={
 holder=26664314
 }
+2536.10.31={# Death of the last Tallano Tagaean.
+holder=78114
+}
